@@ -1,2 +1,2 @@
 # LabMaze
-An Unreal Engine Game comming soon™
+An Unreal Engine Game coming soon™
